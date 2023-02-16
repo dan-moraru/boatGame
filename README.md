@@ -1,8 +1,6 @@
-Java 3 Final Project - Dan Moraru 2138261, Thomas Proctor 2136365, Marko Litovchenko 2133905
+# An idle boat game made using java and rendered using basic javafx for school project
 
 ICM - Idle Cargo Manager
-
-We chose an ambitious idea and we could not finish or implement all of our features we had planned. We still managed to not only make a running game but implemented most/all of the requirements of the project. Even with this questionable design, we are very proud of what we accomplished in the time given. Unfortuantely, we did not have time to implement a tutorial of sorts, so here is how to run/play our game:
 
 1. Make sure to be in icm folder in terminal
 2. Run command: mvn clean javafx:run
